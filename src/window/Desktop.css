@@ -1,0 +1,18 @@
+.desktop{
+    height: 100vh;
+}
+.desktop-main-content{
+    display: flex;
+}
+.desktop-left{
+    background-color: lightblue;
+    width: 400px;
+    height: 100vh;
+}
+.desktop-right{
+    /* background-color: lightcoral; */
+    width: 100%;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+}

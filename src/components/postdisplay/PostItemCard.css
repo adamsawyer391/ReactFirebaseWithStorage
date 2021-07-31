@@ -1,0 +1,25 @@
+.card-item-main{
+    display: flex;
+}
+.card-item-image{
+    width: 300px;
+    height: 250px;
+}
+.card-item-block{
+    border: 1px solid lightgray;
+    margin-top: 20px;
+}
+.card-item-username{
+    background-color: blue;
+    color: white;
+    padding: 3px;
+    margin: 0px;
+    font-size: 28px;
+    display: flex;
+    justify-content: space-between;
+}
+.body-text{
+    padding: 0px;
+    margin: 0px;
+    font-size: 18px;
+}

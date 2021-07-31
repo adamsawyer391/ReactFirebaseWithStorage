@@ -1,0 +1,23 @@
+.appbar-navigation-list{
+    display: flex;
+    list-style: none;
+}
+.appbar-navigation-list-item{
+    font-size: 24px;
+    padding-right: 50px;
+    font-variant: small-caps;
+    color: white;
+}
+.appbar-navigation-list-item:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.appbar-navigation-list-item-end{
+    font-size: 24px;
+    font-variant: small-caps;
+    color: white;
+}
+.appbar-navigation-list-item-end:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
